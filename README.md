@@ -1,6 +1,6 @@
 # Hi All 👋
 
-## I am Pacifique Linjanja 
+## I am Prudent MIGABO 
 
 
 - 🎓 &nbsp; Software Engineer | Microverse Alumni 🧑‍🎓
