@@ -5,7 +5,6 @@
 
 - 💻 &nbsp; Software Engineer
 - 💼 &nbsp; Techy Ahead 🔥 | CRES 🤩
-- 
 
 <h3>🛠 Tech Stack</h3>
 
