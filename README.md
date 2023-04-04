@@ -3,25 +3,24 @@
 ## I am Prudent MIGABO 
 
 
-- 🎓 &nbsp; Software Engineer | Microverse Alumni 🧑‍🎓
-- 💼 &nbsp; Ever Technologies 🔥 | CRES 🤩 | DabbleLab 🛠 | UTA 🛠️
-- 📚 &nbsp; Into writing [Technical Articles](https://paclinjanja.hashnode.dev/)
-- ✍️ &nbsp; Got a hobby on Chess
+- 💻 &nbsp; Software Engineer
+- 💼 &nbsp; Techy Ahead 🔥 | CRES 🤩
+- 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  JavaScript | Typescript | Solidity | React & Redux & MobX | VueJs | React Native | Ruby & RoR | Php & Laravel | Node.js & ExpressJs & NestJs | Web3 | DAO
-- 🌐 &nbsp; HTML | CSS | TailwindCSS | JavaScript | Bootstrap ReactJS | VueJs
-- 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | PouchDb | CouchDb | sqlite
-- 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile
+- 💻 &nbsp;  Dart | Rest APIs | JavaScript
+- 🌐 &nbsp; Flutter
+- 🛢 &nbsp; Firebase | sqlite | BloC | Provider | Shared Preferences 
+- 🔧 &nbsp; Git | GitHub 
 
 <br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/pacifique-linjanja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pacifiquelinjanja-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pacilinja2@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
+<a href="https://www.linkedin.com/in/prudent-migabo-a772bb214/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-prudentmigabo-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:lyadungamigaboprudent@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lyadungamigaboprudent@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
 </p>
 
-⭐️ From [pacyL2K19](https://github.com/pacyL2K19)
+⭐️ From [prudent16](https://github.com/prudent16)
